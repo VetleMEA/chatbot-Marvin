@@ -1,0 +1,5 @@
+billån = ["du finner informasjon om billån på www.dnb.no", "vil du søke billån?"]
+# billån =[]
+forbrukslån = []
+no_answer = ["Beklager, men vi har foreløpig ikke informasjon om dette", "Beklager, vi har tekniske problemer med database"]
+vetle = ["tate supporter"]
